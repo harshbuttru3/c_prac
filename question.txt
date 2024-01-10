@@ -1,0 +1,18 @@
+//Topics
+static,searching, sorting, union, string, pointer, array, file handling, 
+
+Important Questions
+
+fibbonacci series. **
+armstrong number. 
+palindrome number.
+perfect number.
+addititon and multiplication of matrix.
+gcd. **
+prime factorization of number by recursive method.
+printing star pattern.  **
+sum of digits of a number.
+reversing the array.
+swapping two variables.
+numbers of lines in a text file.
+c pre-processor.
